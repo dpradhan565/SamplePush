@@ -14,4 +14,8 @@ public class TestHello {
 	public void testGetHelloWorld() {
 		
 	}
+	@Test
+	public void testGetHelloWorld1() {
+		
+	}
 }
